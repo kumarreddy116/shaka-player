@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shaka-player/static/css/main.2a574673.css",
+    "main.js": "/shaka-player/static/js/main.4af80143.js",
+    "static/js/787.72e07582.chunk.js": "/shaka-player/static/js/787.72e07582.chunk.js",
+    "index.html": "/shaka-player/index.html",
+    "main.2a574673.css.map": "/shaka-player/static/css/main.2a574673.css.map",
+    "main.4af80143.js.map": "/shaka-player/static/js/main.4af80143.js.map",
+    "787.72e07582.chunk.js.map": "/shaka-player/static/js/787.72e07582.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a574673.css",
+    "static/js/main.4af80143.js"
+  ]
+}
